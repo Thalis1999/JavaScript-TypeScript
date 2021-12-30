@@ -4,5 +4,5 @@
 
 
 
-<img src="C:\Users\thalis\Desktop\Screenshot_2.png" alt="Screenshot_2" style="zoom: 50%;" />
+<img src="C:\THALIS\VScode\CursoJs\aula26 - IMC\assets\img\Screenshot_2.png" alt="Screenshot_2" style="zoom:50%;" />
 
