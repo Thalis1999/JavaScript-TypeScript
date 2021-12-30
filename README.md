@@ -1,10 +1,8 @@
 # Alguns projetos do curso de JavaScript e TypeScript. :computer:
 
-
-
-- Alguns projetinhos básicos e avançados.
+- Atividades do curso e alguns projetinhos básicos e avançados.
 
 
 
-![Screenshot_2](C:\Users\thalis\Desktop\Screenshot_2.png)
+<img src="C:\Users\thalis\Desktop\Screenshot_2.png" alt="Screenshot_2" style="zoom: 50%;" />
 
